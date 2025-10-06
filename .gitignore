@@ -26,7 +26,8 @@ MANIFEST
 venv/
 env/
 ENV/
-.myenv/
+myenv/
+
 
 # IDE
 .vscode/
